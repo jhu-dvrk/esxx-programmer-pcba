@@ -1,3 +1,10 @@
 (sym_lib_table
   (lib (name "DM3CS-SF")(type "Legacy")(uri "${KIPRJMOD}/symbols/DM3CS-SF.lib")(options "")(descr ""))
+  (lib
+    (name "led-array-generator")
+    (type "KiCad")
+    (uri "/Users/keshuai/kicad-led-array/kicad-libraries/led-array-generator.kicad_sym")
+    (options "")
+    (descr "Bundled LED array generator symbol library")
+  )
 )
